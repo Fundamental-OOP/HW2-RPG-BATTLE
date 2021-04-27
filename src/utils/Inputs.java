@@ -5,7 +5,6 @@ import java.util.Scanner;
 /**
  * I recommend to use the same Scanner instance throughout the program to avoid some I/O buffering issue.
  * (e.g., `java.util.NoSuchElementException` thrown during `Scanner`'s `nextInt()` or `nextLine()`)
- * when you or we run the test case.
  * @author - johnny850807@gmail.com (Waterball)
  */
 public final class Inputs {
