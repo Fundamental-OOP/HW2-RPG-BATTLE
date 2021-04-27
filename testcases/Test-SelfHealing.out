@@ -70,11 +70,11 @@ Select an action: (0) Basic Attack
 [2]Slime1 causes 0 damage to [1]Hero.
 [1]Hero's turn (HP: 2000, MP: 0, STR: 30, State: Normal).
 Select an action: (0) Basic Attack (1) SelfHealing
-You can’t perform the action: insufficient MP.
+You can't perform the action: insufficient MP.
 Select an action: (0) Basic Attack (1) SelfHealing
-You can’t perform the action: insufficient MP.
+You can't perform the action: insufficient MP.
 Select an action: (0) Basic Attack (1) SelfHealing
-You can’t perform the action: insufficient MP.
+You can't perform the action: insufficient MP.
 Select an action: (0) Basic Attack (1) SelfHealing
 [1]Hero attacks [2]Slime1.
 [1]Hero causes 30 damage to [2]Slime1.

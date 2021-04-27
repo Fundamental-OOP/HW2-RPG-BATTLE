@@ -62,7 +62,7 @@ Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petroch
 [2]Chaoyu causes 50 damage to [1]Slime.
 [1]Hero's turn (HP: 1258, MP: 160, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
-You can’t perform the action: insufficient MP.
+You can't perform the action: insufficient MP.
 Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
 [1]Hero uses Cheerup on [1]GodTien, [1]Slime, [1]Slime.
 [1]GodTien's turn (HP: 1000, MP: 9419, STR: 100, State: Cheerup).
@@ -82,7 +82,7 @@ Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petroch
 [2]Chaoyu uses Curse on [1]Hero.
 [1]Hero's turn (HP: 1258, MP: 60, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
-You can’t perform the action: insufficient MP.
+You can't perform the action: insufficient MP.
 Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
 [1]Hero attacks [2]Chaoyu.
 [1]Hero causes 100 damage to [2]Chaoyu.
