@@ -1,6 +1,6 @@
 [1]Hero's turn (HP: 5000, MP: 2000, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
-Select 1 target: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Soldier10
+Select 1 targets: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Soldier10
 [1]Hero uses Curse on [2]Soldier1.
 [1]GodTien's turn (HP: 2000, MP: 2000, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
@@ -262,7 +262,7 @@ Select an action: (0) Basic Attack
 [2]Slime causes 50 damage to [1]GodTien.
 [1]Hero's turn (HP: 3419, MP: 1900, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
-Select 1 target: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Slime
+Select 1 targets: (0) [2]Soldier1 (1) [2]Soldier2 (2) [2]Soldier3 (3) [2]Soldier4 (4) [2]Soldier5 (5) [2]Soldier6 (6) [2]Soldier7 (7) [2]Soldier8 (8) [2]Soldier9 (9) [2]Slime
 [1]Hero uses OnePunch on [2]Soldier1.
 [1]Hero causes 293 damage to [2]Soldier1.
 [2]Soldier1 dies.
@@ -311,7 +311,7 @@ Select an action: (0) Basic Attack
 [2]Slime causes 50 damage to [1]GodTien.
 [1]Hero's turn (HP: 3369, MP: 1720, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
-Select 1 target: (0) [2]Soldier2 (1) [2]Soldier3 (2) [2]Soldier4 (3) [2]Soldier5 (4) [2]Soldier7 (5) [2]Soldier8 (6) [2]Soldier9 (7) [2]Slime
+Select 1 targets: (0) [2]Soldier2 (1) [2]Soldier3 (2) [2]Soldier4 (3) [2]Soldier5 (4) [2]Soldier7 (5) [2]Soldier8 (6) [2]Soldier9 (7) [2]Slime
 [1]Hero uses Curse on [2]Soldier2.
 [1]GodTien's turn (HP: 840, MP: 1310, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) OnePunch (2) Waterball (3) SelfHealing
@@ -358,7 +358,7 @@ Select an action: (0) Basic Attack
 [2]Slime causes 50 damage to [1]Hero.
 [1]Hero's turn (HP: 3219, MP: 1620, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) OnePunch (3) Cheerup (4) Curse
-Select 1 target: (0) [2]Soldier2 (1) [2]Soldier3 (2) [2]Soldier4 (3) [2]Soldier5 (4) [2]Soldier7 (5) [2]Soldier8 (6) [2]Soldier9 (7) [2]Slime
+Select 1 targets: (0) [2]Soldier2 (1) [2]Soldier3 (2) [2]Soldier4 (3) [2]Soldier5 (4) [2]Soldier7 (5) [2]Soldier8 (6) [2]Soldier9 (7) [2]Slime
 [1]Hero uses OnePunch on [2]Soldier2.
 [1]Hero causes 133 damage to [2]Soldier2.
 [2]Soldier2 dies.

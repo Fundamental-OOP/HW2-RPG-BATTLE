@@ -13,7 +13,7 @@ Select an action: (0) Basic Attack (1) Waterball
 [2]Slime2 causes 120 damage to [1]Hero.
 [1]Hero's turn (HP: 130, MP: 450, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing
-Select 1 target: (0) [2]Slime1 (1) [2]Slime2
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2
 [1]Hero uses Waterball on [2]Slime1.
 [1]Hero causes 120 damage to [2]Slime1.
 [2]Slime1's turn (HP: 30, MP: 150, STR: 50, State: Normal).
@@ -48,7 +48,7 @@ Select an action: (0) Basic Attack (1) Waterball
 [2]Slime2 causes 50 damage to [1]Hero.
 [1]Hero's turn (HP: 130, MP: 300, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) Waterball (3) SelfHealing
-Select 1 target: (0) [2]Slime1 (1) [2]Slime2
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2
 [1]Hero uses Waterball on [2]Slime1.
 [1]Hero causes 120 damage to [2]Slime1.
 [2]Slime1 dies.

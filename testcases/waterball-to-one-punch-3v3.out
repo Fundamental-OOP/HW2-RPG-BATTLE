@@ -16,7 +16,7 @@ Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petroch
 [2]CCChang uses SelfHealing.
 [1]Hero's turn (HP: 1000, MP: 700, STR: 100, State: Cheerup).
 Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
-Select 1 target: (0) [2]Waterball (1) [2]Chaoyu (2) [2]CCChang
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu (2) [2]CCChang
 [1]Hero uses Curse on [2]Waterball.
 [1]GodTien's turn (HP: 1000, MP: 9899, STR: 100, State: Cheerup).
 Select an action: (0) Basic Attack (1) OnePunch (2) Cheerup (3) Summon
@@ -34,7 +34,7 @@ Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petroch
 [1]Starbucks dies.
 [1]Hero's turn (HP: 1000, MP: 600, STR: 100, State: Cheerup).
 Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
-Select 1 target: (0) [2]Waterball (1) [2]Chaoyu (2) [2]CCChang
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu (2) [2]CCChang
 [1]Hero uses OnePunch on [2]Waterball.
 [1]Hero causes 341 damage to [2]Waterball.
 [1]GodTien's turn (HP: 1000, MP: 9719, STR: 100, State: Cheerup).

@@ -1,6 +1,6 @@
 [1]Hero's turn (HP: 500, MP: 800, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
-Select 1 target: (0) [2]Waterball (1) [2]Chaoyu
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu
 [1]Hero uses Curse on [2]Waterball.
 [1]GodTien's turn (HP: 1000, MP: 9999, STR: 100, State: Normal).
 Select an action: (0) Basic Attack (1) OnePunch (2) Cheerup (3) Summon
@@ -14,7 +14,7 @@ Select an action: (0) Basic Attack (1) Summon (2) Curse (3) OnePunch (4) Petroch
 [2]Chaoyu uses Curse on [1]Hero.
 [1]Hero's turn (HP: 450, MP: 700, STR: 100, State: Cheerup).
 Select an action: (0) Basic Attack (1) Fireball (2) Summon (3) OnePunch (4) Cheerup (5) Curse
-Select 1 target: (0) [2]Waterball (1) [2]Chaoyu
+Select 1 targets: (0) [2]Waterball (1) [2]Chaoyu
 [1]Hero uses OnePunch on [2]Waterball.
 [1]Hero causes 341 damage to [2]Waterball.
 [2]Waterball dies.

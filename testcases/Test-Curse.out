@@ -1,6 +1,6 @@
 [1]Hero's turn (HP: 500, MP: 10000, STR: 10, State: Normal).
 Select an action: (0) Basic Attack (1) Curse
-Select 1 target: (0) [2]Slime1 (1) [2]Slime2
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2
 [1]Hero uses Curse on [2]Slime2.
 [1]Ally's turn (HP: 1, MP: 100, STR: 0, State: Normal).
 Select an action: (0) Basic Attack (1) Curse
@@ -15,7 +15,7 @@ Select an action: (0) Basic Attack
 [2]Slime2 causes 0 damage to [1]Ally.
 [1]Hero's turn (HP: 500, MP: 9900, STR: 10, State: Normal).
 Select an action: (0) Basic Attack (1) Curse
-Select 1 target: (0) [2]Slime1 (1) [2]Slime2
+Select 1 targets: (0) [2]Slime1 (1) [2]Slime2
 [1]Hero attacks [2]Slime2.
 [1]Hero causes 10 damage to [2]Slime2.
 [2]Slime2 dies.
