@@ -19,7 +19,7 @@ public class DatingSystem {
         // initialization procedure begins
         User me = new User(Gender.MALE, "Waterball", "FOOP TA", 10);
 
-        // An intuitive way: Strategy pattern
+        // An intuitive way
         me.setMatchPolicy(new FemaleOnlyPolicy());  // dependency-injection via its setter
 
         // or
