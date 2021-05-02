@@ -35,12 +35,13 @@ public class DatingSystem {
         // or (2)
         me.setMatchPolicy(new FemaleOnly(new HigherSalary(new LongText())));
 
-        // we can say this follows OCP, since we can add the new policy: NewPolicy, simply:
+        // we can say this follows OCP, since we can add the new policy: NewPolicy, simply by:
         me.setMatchPolicy(new CompositeMatchPolicy(new FemaleOnlyPolicy(), new HigherSalaryPolicy(), new LongTextPolicy(),
-                /*Here we are, we can put the new policy here,
-                without any modifications to the old code except the initialization-procedure*/
+                /* Here we are, we can put the new policy here,
+                without any modifications to the old code except the initialization-procedure */
                 new NewPolicy()));
 
+        // Then, start the matching
         User[] candidates = {
                 new User(Gender.MALE, "A", "A", 40000000),
                 new User(Gender.FEMALE, "B", "A", 100),
@@ -49,7 +50,7 @@ public class DatingSystem {
         };
         me.match(candidates);
         for (User friend : me.getFriends()) {
-            System.out.println(friend.getName());
+            System.out.println(friend.getName());  // output: Best
         }
 
         // You may wonder, can I directly inject an array or a list to support several policies?
@@ -57,8 +58,6 @@ public class DatingSystem {
         // Yes, you can! This also follows OCP, just two drawbacks:
         // (1) The encapsulation of 'Match-Policy' is bad (A great encapsulation -> a well defined interface and self-contained responsibility)
         // (2) It doesn't follow "Dependency-Inversion principle (DIP)". (Google it! Be patient, it's a long journey :D)
-
-        // Disclaimer: Don't
     }
 }
 
