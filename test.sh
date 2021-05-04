@@ -9,6 +9,9 @@ java -cp "provided.jar:out/" TestSuite Test-Cheerup && \
 java -cp "provided.jar:out/" TestSuite Test-Curse && \
 java -cp "provided.jar:out/" TestSuite Test-SelfExplosion && \
 java -cp "provided.jar:out/" TestSuite Test-Summon && \
+java -cp "provided.jar:out/" TestSuite Test-Poison && \
+java -cp "provided.jar:out/" TestSuite Test-Poison-2 && \
+java -cp "provided.jar:out/" TestSuite Test-Insufficient-MP && \
 java -cp "provided.jar:out/" TestSuite Test-OnePunch && \
 java -cp "provided.jar:out/" TestSuite only-basic-attack && \
 java -cp "provided.jar:out/" TestSuite waterball-to-fireball-1v2 && \
