@@ -45,8 +45,8 @@ public class DatingSystem {
         User[] candidates = {
                 new User(Gender.MALE, "A", "A", 40000000),
                 new User(Gender.FEMALE, "B", "A", 100),
-                new User(Gender.FEMALE, "C", "HA... I'm an very extrovert girl", 0),
-                new User(Gender.FEMALE, "Best", "HA... I'm an very extrovert girl", 300000),
+                new User(Gender.FEMALE, "C", "HA... I'm a very extrovert girl", 0),
+                new User(Gender.FEMALE, "Best", "HA... I'm a very extrovert girl", 300000),
         };
         me.match(candidates);
         for (User friend : me.getFriends()) {
