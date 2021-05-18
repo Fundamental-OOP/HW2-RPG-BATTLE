@@ -17,7 +17,7 @@ public class Cat {
 
     public void makeAction2() {
         // !! Also violate OCP: you are still coupling with the states (even you don't name it explicitly!)
-        if (state == 1) {
+        if (state != 1) {
             // make an action
         }
     }
