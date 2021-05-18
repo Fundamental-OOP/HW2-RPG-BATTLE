@@ -24,7 +24,6 @@ class GoodCat {
         this.actions = actions;
     }
 
-    // Never put your interface in the entry class (Main)
     interface Action {
         void execute(Cat cat);
     }
