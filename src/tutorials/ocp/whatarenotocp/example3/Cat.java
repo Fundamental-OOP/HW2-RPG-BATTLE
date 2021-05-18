@@ -9,14 +9,14 @@ public class Cat {
     private int state = NORMAL;
 
     public void makeAction1() {
-        // Violate OCP: coupled with states
+        // Violate OCP: coupled with the concrete state "SAD"
         if (state != SAD) {
             // make an action
         }
     }
 
     public void makeAction2() {
-        // !! Also violate OCP: you are still coupling with the states (even you don't name it explicitly!)
+        // !! Also violate OCP: you are still coupling with the concrete state "1" (even you don't name it explicitly!)
         if (state != 1) {
             // make an action
         }
