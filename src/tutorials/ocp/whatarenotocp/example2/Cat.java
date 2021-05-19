@@ -4,13 +4,13 @@ package tutorials.ocp.whatarenotocp.example2;
  * @author Waterball (johnny850807@gmail.com)
  */
 public class Cat {
-    // Violate OCP: directly coupled with "eat"
+    // Violate OCP: directly coupled with the action eat
     public void eat() {
-        System.out.println("eat");
+        // eating
     }
 
-    // Violate OCP: directly coupled with "sleep"
+    // Violate OCP: directly coupled with the action sleep
     public void sleep() {
-        System.out.println("sleep");
+        // sleeping
     }
 }
